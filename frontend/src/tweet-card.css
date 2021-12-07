@@ -1,0 +1,89 @@
+.py-12px {
+    padding-top: 12px !important;
+    padding-bottom: 12px !important;
+}
+
+.pt-0px {
+    padding-top: 0px !important;
+}
+
+.innerIcon {
+    height: 28px;
+    width: 28px;
+    border-radius: 999px;
+}
+
+.retweetedIcon svg {
+    height: 16px;
+    width: 16px;
+}
+
+.quoted_inner_image {
+    height: 25px !important;
+    width: 25px !important;
+}
+
+.quoted_inner_tweet {
+    margin-left: 50px !important;
+    padding-top: 0px !important;
+}
+
+.quoted_tweet {
+    padding-bottom: 5px !important;
+}
+
+.quoted_inner_tweet_border {
+    border: 1px solid rgb(207, 217, 222) !important;
+    border-radius: 16px !important;
+    padding: 10px !important;
+}
+
+.verifiedTick,
+.tweetIcons .innerIcon svg {
+    height: 18px;
+    width: 18px;
+}
+
+.verifiedTick path,
+.replyIcon:hover path {
+    fill: rgb(29, 155, 240) !important;
+}
+
+.replyIcon:hover small {
+    color: rgb(29, 155, 240) !important;
+    ;
+}
+
+.replyIcon:hover .innerIcon {
+    background-color: rgba(29, 155, 240, 0.1);
+}
+
+.retweetIcon:hover path {
+    fill: rgb(0, 186, 124) !important;
+}
+
+.retweetIcon:hover small {
+    color: rgb(0, 186, 124) !important;
+    ;
+}
+
+.retweetIcon:hover .innerIcon {
+    background-color: rgba(0, 186, 124, 0.1);
+}
+
+.favIcon:hover path {
+    fill: rgb(249, 24, 128) !important;
+}
+
+.favIcon:hover small {
+    color: rgb(249, 24, 128) !important;
+    ;
+}
+
+.favIcon:hover .innerIcon {
+    background-color: rgba(249, 24, 128, 0.1);
+}
+
+.retweetedHeadingColor {
+    color: rgb(83, 100, 113) !important;
+}
